@@ -1,1 +1,2 @@
-https://github.com/AkshataMullya/syncthing/blob/master/.github/CODEOWNERS
+/AUTHORS    @calmh
+/*.md @calmh
